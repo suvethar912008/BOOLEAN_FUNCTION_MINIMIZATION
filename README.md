@@ -48,13 +48,13 @@ RegisterNumber:212225220113 */
 
 
 **RTL realization**
-"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 105929.png"
+C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 105929.png
 **Output:**
 
 **RTL**
-"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-15 154241.png"
+C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-15 154241.png
 **Timing Diagram**
-"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 111439.png"
+C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 111439.png
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
