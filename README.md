@@ -50,7 +50,7 @@ RegisterNumber:212225220113 */
 **RTL realization**
 ![output](output1.png)
 **RTL**
-
+![output](output3.png)
 **Timing Diagram**
 
 **Result:**
