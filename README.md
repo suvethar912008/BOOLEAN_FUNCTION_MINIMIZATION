@@ -52,7 +52,7 @@ RegisterNumber:212225220113 */
 **RTL**
 ![output](output3.png)
 **Timing Diagram**
-
+![output](output2.png)
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
