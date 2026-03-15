@@ -48,11 +48,11 @@ RegisterNumber:212225220113 */
 
 
 **RTL realization**
-<img src= "C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 105929.png" width="400" height="200">
+![output](output1.png)
 **RTL**
-<img src="C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-15 154241.png" width="400" height="200">
+
 **Timing Diagram**
-<img src="C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 111439.png" width="400" height="200">
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
